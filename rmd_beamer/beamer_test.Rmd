@@ -1,0 +1,18 @@
+---
+title: Beamer Test
+subtitle: Beamer Test subtitle
+author: Karpfen
+date: "`r format(Sys.Date(), '%d.%m.%Y')`"
+output:
+    beamer_presentation:
+        keep_tex: true
+header-includes:
+    - \beamertemplatenavigationsymbolsempty
+---
+
+# First slide
+
+- bla bla bla
+- bla bla bla
+- bla bla bla
+- bla bla bla
